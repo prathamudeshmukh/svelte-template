@@ -1,1 +1,5 @@
-# Svelte demo app
+# Svelte Template
+
+- ESLint
+- Tailwind
+
